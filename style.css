@@ -50,6 +50,7 @@
 .input input {
     width: 100%;
     border: none;
+    outline: none;
     background: #eee;
 
 }
